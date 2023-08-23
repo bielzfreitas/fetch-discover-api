@@ -1,5 +1,5 @@
 # fetch-discover-api
-API using Fetch
+API using Fetch - Author: Gabriel Freitas (bielzfreitas)
 
 Projeto feito com a RocketSeat
 - Trilha Discover
